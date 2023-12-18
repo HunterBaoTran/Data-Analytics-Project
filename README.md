@@ -7,3 +7,4 @@ This project was built to aid in my development in data analysis and storytellin
 
 ## Finding 1:
 
+![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/37e74021-a12b-410c-b1c9-6d445ac91332)
