@@ -17,6 +17,8 @@ The analysis of the datasets revealed that the most commonly used Russian models
 ## Shahed-136: The Leading Aerial Model
 Among these, the Shahed-136 stands out as the most frequently used aerial model. This model is a UAV Kamikaze bomber, characterized by its ability to carry small but lethal explosives. The prominent use of the Shahed-136 suggests a strategic preference by Russia for employing unmanned systems capable of precise targeting in complex environments. Its design allows for effective maneuvering around challenging terrains and urban structures, ensuring that it can reach its targets with a high degree of accuracy.
 
+**Check out how the Shahed-136 works:** https://www.youtube.com/watch?v=-U0usQ-g9GM&ab_channel=AiTelly
+
 ## Strategic Implications
 **Tactical Advantage:** The deployment of UAVs like the Shahed-136 provides a tactical advantage, especially in urban warfare or in regions with difficult terrain. These UAVs can navigate obstacles and deliver explosives with precision, reducing collateral damage while maximizing the impact on the intended targets.
 
