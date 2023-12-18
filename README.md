@@ -1,5 +1,5 @@
 # Russian Missile Attacks on Ukraine
-The primary objective of this project is to conduct a comprehensive analysis of missile and UAV data, particularly focusing on their usage in the Ukraine conflict. By examining different models, deployment patterns, and shoot-down rates, the project aims to provide valuable insights into the strategic and tactical aspects of missile and UAV utilization in modern warfare.
+The primary objective of this project is to conduct exploratory analysis of missile and UAV data, particularly focusing on their usage in the Ukraine conflict. By examining different models, deployment patterns, and shoot-down rates, the project aims to provide valuable insights into the strategic and tactical aspects of missile and UAV utilization in modern warfare.
 
 **Data Source:** https://www.kaggle.com/datasets/piterfm/massive-missile-attacks-on-ukraine/data
 
