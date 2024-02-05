@@ -3,8 +3,6 @@ The primary objective of this project is to conduct exploratory analysis of miss
 
 **Data Source:** https://www.kaggle.com/datasets/piterfm/massive-missile-attacks-on-ukraine/data
 
-**AI Note:** This entire project was built using ChatGPT, from generating the code for visualizations to producing the text for this markdown file.
-
 # Finding 1: Russia's Favorite Weapon
 
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/37e74021-a12b-410c-b1c9-6d445ac91332)
