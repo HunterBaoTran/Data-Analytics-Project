@@ -1,5 +1,9 @@
 ## Russian Missile Attacks on Ukraine
-The primary objective of this project is to conduct exploratory analysis of missile and UAV data, particularly focusing on their usage in the Ukraine conflict. By examining different models, deployment patterns, and shoot-down rates, the project aims to provide valuable insights into the strategic and tactical aspects of missile and UAV utilization in modern warfare.
+This project conducts an in-depth analysis of missile and UAV utilization within the Ukraine conflict, with a focus on deployment patterns, model-specific usage, and interception rates. Central to our examination is the impact of US sanctions on the deployment of Shahed-136/131 drones by Russia, informed by data sourced from Kaggle. The sanctions aimed at Iranian entities producing components for these UAVs offer a unique lens to gauge the interplay between international policy measures and military tactics.
+
+Our findings highlight Russia's strategic preference for unmanned systems like the Shahed-136 for precision strikes, reflecting a broader tactical shift towards minimizing risk while maximizing operational impact. The analysis reveals a nuanced response to the sanctions, marked by an initial decrease in Shahed-136 launches, followed by a resurgence, suggesting an adaptive strategy to circumvent the sanctions' effects.
+
+This study underscores the complexity of modern warfare, where technological advancements, strategic decisions, and international regulations converge. By providing a detailed overview of weapon system utilization and the efficacy of sanctions, this project contributes valuable insights to the discourse on contemporary military strategies and international security policy. Through rigorous data analysis, it aims to enhance understanding of the dynamics at play in the Ukraine conflict and inform future policy and strategic decision-making.
 
 **Data Source:** https://www.kaggle.com/datasets/piterfm/massive-missile-attacks-on-ukraine/data
 
@@ -36,7 +40,7 @@ The United States Institute of Peace provides a comprehensive timeline of U.S. s
 (https://iranprimer.usip.org/resource/timeline-us-sanctions)
 
 ## Key Observations
-**Period of Inactivity:** In March, coinciding with a phase of intensified sanctions, there was a noticeable lull in the launch of Iranian UAVs. This period of inactivity might suggest an immediate impact of the sanctions on Iran’s operational capabilities or a strategic pause in response to international pressure.
+**Period of Inactivity:** In March, coinciding with a phase of intensified sanctions, there was a slight lull in the launch of Iranian UAVs. This period of inactivity might suggest an immediate impact of the sanctions on Iran’s operational capabilities or a strategic pause in response to international pressure.
 
 **Subsequent Increase in UAV Usage:** Interestingly, only a month after this hiatus, there was a rapid increase in the deployment of Iranian Kamikaze drones. This surge could indicate Iran's adaptation to the sanctions, possibly through accelerated domestic development or alternative procurement strategies.
 
