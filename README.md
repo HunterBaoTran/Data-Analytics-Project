@@ -5,7 +5,8 @@ The primary objective of this project is to conduct exploratory analysis of miss
 
 ## Finding 1: Russia's Favorite Weapon
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/37e74021-a12b-410c-b1c9-6d445ac91332)
-![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/d8b59a16-f77d-42bb-bda0-d8397ef8884d)
+![image](https://github.com/HunterBaoTran/Russian-Missile-Attacks/assets/75411963/6490ca45-faed-4747-bf6b-58d40a0ee3cb)
+
 
 ## Russian Missile Usage
 The analysis of the datasets revealed that the most commonly used Russian models are the Shahed-136, X-59, Orlan-10, Kalibr, and X-101.
