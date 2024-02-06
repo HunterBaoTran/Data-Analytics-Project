@@ -11,10 +11,6 @@ This study underscores the complexity of modern warfare, where technological adv
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/37e74021-a12b-410c-b1c9-6d445ac91332)
 ![image](https://github.com/HunterBaoTran/Russian-Missile-Attacks/assets/75411963/bce90aa6-3b2c-43fe-9783-957ad0d218fc)
 
-
-## Russian Missile Usage
-The analysis of the datasets revealed that the most commonly used Russian models are the Shahed-136, X-59, Orlan-10, Kalibr, and X-101.
-
 ## Shahed-136: The Leading Aerial Model
 Among these, the Shahed-136 stands out as the most frequently used aerial model. This model is a UAV Kamikaze bomber, characterized by its ability to carry small but lethal explosives. The prominent use of the Shahed-136 suggests a strategic preference by Russia for employing unmanned systems capable of precise targeting in complex environments. Its design allows for effective maneuvering around challenging terrains and urban structures, ensuring that it can reach its targets with a high degree of accuracy.
 
@@ -30,7 +26,6 @@ Diversity in Russian Arsenal: The variety of models, including cruise missiles a
 Comparison with Iranian Models: Compared to Iranian models, Russian missiles and UAVs exhibit a broader range of capabilities, reflecting a comprehensive approach to aerial warfare and reconnaissance.
 
 # Finding 2: Sanction Effectiveness
-
 ![image](https://github.com/HunterBaoTran/Russian-Missile-Attacks/assets/75411963/daaffca0-cb4c-4563-a99b-ebecc316e14f)
 ![image](https://github.com/HunterBaoTran/Russian-Missile-Attacks/assets/75411963/b54c7da5-7b0e-44ae-b245-275cd9052082)
 <img width="880" alt="Screen Shot 2023-12-17 at 11 17 19 PM" src="https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/6631af42-1ebd-4a55-bfb6-107a282f30ac">
@@ -50,7 +45,6 @@ The United States Institute of Peace provides a comprehensive timeline of U.S. s
 **Long-term Adaptability:** The subsequent increase in UAV deployment, especially of Kamikaze drones, points to Iran's ability to adapt to sanctions over time. This might involve leveraging domestic production capabilities or finding innovative ways to circumvent the sanctions.
 
 ## Finding 3: Will I get Blown Up?
-
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/4192075a-a819-41e5-bba0-a28cba49a21d)
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/8e446a75-33f6-425c-b4f8-6d37f1a6b7b0)
 
@@ -79,7 +73,6 @@ A key aspect of our analysis focused on the relationship between reconnaissance 
 **Broader Implications:** Extending this analysis to other regions or conflicts could provide a comparative perspective on the use of UAVs and missiles in modern warfare.
 
 ## Finding 4: The Scariest Missiles
-
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/80bb3f09-d30c-4685-8099-1e225ba92f92)
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/aa7c0002-e7b8-4a7c-9aae-33dcdc6f034d)
 
