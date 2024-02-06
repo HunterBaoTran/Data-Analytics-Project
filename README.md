@@ -1,10 +1,8 @@
 ## Russian Missile Attacks on Ukraine
 The primary objective of this project is to conduct exploratory analysis of missile and UAV data, particularly focusing on their usage in the Ukraine conflict. By examining different models, deployment patterns, and shoot-down rates, the project aims to provide valuable insights into the strategic and tactical aspects of missile and UAV utilization in modern warfare.
-
 **Data Source:** https://www.kaggle.com/datasets/piterfm/massive-missile-attacks-on-ukraine/data
 
 ## Finding 1: Russia's Favorite Weapon
-
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/37e74021-a12b-410c-b1c9-6d445ac91332)
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/d8b59a16-f77d-42bb-bda0-d8397ef8884d)
 
