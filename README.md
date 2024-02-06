@@ -5,7 +5,7 @@ The primary objective of this project is to conduct exploratory analysis of miss
 
 ## Finding 1: Russia's Favorite Weapon
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/37e74021-a12b-410c-b1c9-6d445ac91332)
-![image](https://github.com/HunterBaoTran/Russian-Missile-Attacks/assets/75411963/6490ca45-faed-4747-bf6b-58d40a0ee3cb)
+![image](https://github.com/HunterBaoTran/Russian-Missile-Attacks/assets/75411963/bce90aa6-3b2c-43fe-9783-957ad0d218fc)
 
 
 ## Russian Missile Usage
@@ -27,8 +27,8 @@ Comparison with Iranian Models: Compared to Iranian models, Russian missiles and
 
 # Finding 2: Sanction Effectiveness
 
-![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/aaf5e530-8bcc-4704-ae88-fb2e1d57a9d1)
-![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/348d12e0-06e6-47ed-b0e8-87c77a059408)
+![image](https://github.com/HunterBaoTran/Russian-Missile-Attacks/assets/75411963/daaffca0-cb4c-4563-a99b-ebecc316e14f)
+![image](https://github.com/HunterBaoTran/Russian-Missile-Attacks/assets/75411963/b54c7da5-7b0e-44ae-b245-275cd9052082)
 <img width="880" alt="Screen Shot 2023-12-17 at 11 17 19 PM" src="https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/6631af42-1ebd-4a55-bfb6-107a282f30ac">
 
 ## Impact of U.S. Sanctions on Iranian Missile and UAV Deployment
