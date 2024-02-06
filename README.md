@@ -1,4 +1,4 @@
-### Russian Missile Attacks on Ukraine
+# Russian Missile Attacks on Ukraine
 This project conducts an in-depth analysis of missile and UAV utilization within the Ukraine conflict, with a focus on deployment patterns, model-specific usage, and interception rates. Central to our examination is the impact of US sanctions on the deployment of Shahed-136/131 drones by Russia, informed by data sourced from Kaggle. The sanctions aimed at Iranian entities producing components for these UAVs offer a unique lens to gauge the interplay between international policy measures and military tactics.
 
 Our findings highlight Russia's strategic preference for unmanned systems like the Shahed-136 for precision strikes, reflecting a broader tactical shift towards minimizing risk while maximizing operational impact. The analysis reveals a nuanced response to the sanctions, marked by an initial decrease in Shahed-136 launches, followed by a resurgence, suggesting an adaptive strategy to circumvent the sanctions' effects.
