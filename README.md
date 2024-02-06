@@ -1,14 +1,14 @@
-# Russian Missile Attacks on Ukraine
+## Russian Missile Attacks on Ukraine
 The primary objective of this project is to conduct exploratory analysis of missile and UAV data, particularly focusing on their usage in the Ukraine conflict. By examining different models, deployment patterns, and shoot-down rates, the project aims to provide valuable insights into the strategic and tactical aspects of missile and UAV utilization in modern warfare.
 
 **Data Source:** https://www.kaggle.com/datasets/piterfm/massive-missile-attacks-on-ukraine/data
 
-# Finding 1: Russia's Favorite Weapon
+## Finding 1: Russia's Favorite Weapon
 
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/37e74021-a12b-410c-b1c9-6d445ac91332)
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/d8b59a16-f77d-42bb-bda0-d8397ef8884d)
 
-# Analysis Insights
+## Analysis Insights
 ## Russian Missile Usage
 The analysis of the datasets revealed that the most commonly used Russian models are the Shahed-136, X-59, Orlan-10, Kalibr, and X-101.
 
@@ -26,13 +26,13 @@ Among these, the Shahed-136 stands out as the most frequently used aerial model.
 Diversity in Russian Arsenal: The variety of models, including cruise missiles and UAVs, indicates a diverse arsenal at Russia's disposal, enabling flexibility and adaptability in different combat situations.
 Comparison with Iranian Models: Compared to Iranian models, Russian missiles and UAVs exhibit a broader range of capabilities, reflecting a comprehensive approach to aerial warfare and reconnaissance.
 
-# Finding 2: Sanction Effectiveness
+## Finding 2: Sanction Effectiveness
 
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/aaf5e530-8bcc-4704-ae88-fb2e1d57a9d1)
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/348d12e0-06e6-47ed-b0e8-87c77a059408)
 <img width="880" alt="Screen Shot 2023-12-17 at 11 17 19 PM" src="https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/6631af42-1ebd-4a55-bfb6-107a282f30ac">
 
-# Impact of U.S. Sanctions on Iranian Missile and UAV Deployment
+## Impact of U.S. Sanctions on Iranian Missile and UAV Deployment
 ## Overview
 The United States Institute of Peace provides a comprehensive timeline of U.S. sanctions against Iran. These sanctions target individuals, companies, and sectors pivotal to Iran's missile and UAV programs. An analysis of the missile and UAV deployment data reveals interesting trends that may correlate with these sanctions.
 (https://iranprimer.usip.org/resource/timeline-us-sanctions)
@@ -47,12 +47,12 @@ The United States Institute of Peace provides a comprehensive timeline of U.S. s
 
 **Long-term Adaptability:** The subsequent increase in UAV deployment, especially of Kamikaze drones, points to Iran's ability to adapt to sanctions over time. This might involve leveraging domestic production capabilities or finding innovative ways to circumvent the sanctions.
 
-# Finding 3: Will I get Blown Up?
+## Finding 3: Will I get Blown Up?
 
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/4192075a-a819-41e5-bba0-a28cba49a21d)
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/8e446a75-33f6-425c-b4f8-6d37f1a6b7b0)
 
-# Correlation Between Reconnaissance UAV Events and Subsequent Missile Strikes
+## Correlation Between Reconnaissance UAV Events and Subsequent Missile Strikes
 ## Analysis Overview
 A key aspect of our analysis focused on the relationship between reconnaissance UAV events and subsequent cruise missile strikes in Ukraine. We investigated the likelihood of a cruise missile event occurring at the same location as a UAV reconnaissance event within specific timeframes.
 
@@ -77,12 +77,12 @@ A key aspect of our analysis focused on the relationship between reconnaissance 
 
 **Broader Implications:** Extending this analysis to other regions or conflicts could provide a comparative perspective on the use of UAVs and missiles in modern warfare.
 
-# Finding 4: The Scariest Missiles
+## Finding 4: The Scariest Missiles
 
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/80bb3f09-d30c-4685-8099-1e225ba92f92)
 ![image](https://github.com/HunterBaoTran/Data-Analytics-Project/assets/75411963/aa7c0002-e7b8-4a7c-9aae-33dcdc6f034d)
 
-# Comparative Analysis of Russian Missile Resilience and Vulnerability in Ukraine
+## Comparative Analysis of Russian Missile Resilience and Vulnerability in Ukraine
 ## Context
 Our analysis unveils varied patterns of missile deployment and their susceptibility to being shot down in the context of the conflict in Ukraine. This analysis is particularly illuminating when comparing the operational resilience of different missile models.
 
